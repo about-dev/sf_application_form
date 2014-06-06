@@ -14,15 +14,15 @@ chapter of the Symfony Documentation.
 When it comes to installing you have to first install the Symfony framework. 
 Then you have to integrate the following files from this archive:
 - the routing: 
-copy from this archive the routing.yml file located into src/Demo/TestBundle/Resources/config/routing.yml
+copy from this archive the `routing.yml` file located into `src/Demo/TestBundle/Resources/config/routing.yml`
 - the controller: 
-copy from this archive the AddressController.php file located into src/Demo/TestBundle/Controller/AddressController.php
+copy from this archive the `AddressController.php` file located into `src/Demo/TestBundle/Controller/AddressController.php`
 - the form generator class: 
-copy from this archive the AddressForm.php file located into src/Demo/TestBundle/Form/AddressForm.php
+copy from this archive the `AddressForm.php` file located into `src/Demo/TestBundle/Form/AddressForm.php`
 - the model: 
-copy from this archive the Address.php file located into src/Demo/TestBundle/Model/Address.php
+copy from this archive the `Address.php` file located into `src/Demo/TestBundle/Model/Address.php`
 - the view: 
-copy from this archive the address.html.twig file located into src/Demo/TestBundle/Resources/views/Address/address.html.twig
+copy from this archive the `address.html.twig` file located into `src/Demo/TestBundle/Resources/views/Address/address.html.twig`
 
 
 2) Checking your System Configuration

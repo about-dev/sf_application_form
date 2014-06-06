@@ -49,7 +49,11 @@ If you get any warnings or recommendations, fix them before moving on.
 
 Congratulations! You're now ready to use the application.
 
-By accessing this path http://localhost/path-to-project/add-address you will see the generated form.
+By accessing this path 
+
+    http://localhost/path-to-project/add-address
+
+you will see the generated form.
 You can now test it.
 
 Enjoy!

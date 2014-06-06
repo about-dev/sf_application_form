@@ -1,0 +1,12 @@
+demo_test_add_address:
+    pattern:  /add-address
+    defaults: { _controller: DemoTestBundle:Address:addAddressForm }
+    requirements:
+        _method: GET|POST
+
+demo_test_localities:
+    pattern:  /localities/{id}
+    defaults: { _controller: DemoTestBundle:Address:getLocalities }
+    requirements:
+        _method: GET
+        id: (\d+)
